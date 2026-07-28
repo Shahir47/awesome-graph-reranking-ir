@@ -11,7 +11,7 @@ Graph-based methods for reordering retrieved documents across information retrie
 
 ## 🔥 NEWS
 * 07.27.2026: Release of **V2** of the survey on [arXiv](https://arxiv.org/abs/2503.14802)
-* 03.19.2025: Release of **V1** of the survey
+* 03.19.2025: Release of **V1** of the survey on [arXiv](https://arxiv.org/abs/2503.14802v1)
 
 ## 🚀 Related Work from Our Group
 [Density2R](https://ieeexplore.ieee.org/document/11401587), an efficient zero-shot document re-ranking method for information retrieval, RAG, and LLM-based reranking, published at IEEE BigData 2025.
